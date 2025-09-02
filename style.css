@@ -1,0 +1,195 @@
+body{
+    background:#fff
+}
+.header{
+    background: url(assests/img/slide.jpg);
+    min-height: 600px;
+    background-size: cover;
+}
+a.logo{
+    color:red;
+}
+a.logo span{
+    font-size:13px;
+    color:#fff
+}
+.navarea {
+    float: right;
+    margin-left: 230px;
+}
+
+.main-menu li{
+    padding:20px 10px;
+}
+.main-menu li:hover, .main-menu li.active{
+    border-bottom:solid 3px #fff
+}
+.main-menu li a{
+    color:#fff; 
+    padding-left: 10px;
+}
+.main-menu li a:hover{
+    color:#ccc
+}
+.dropdown-menu a.dropdown-item{
+    color:#062c33
+}
+
+
+input.searcht{
+    border-radius: 22px;
+}
+
+a.ct-baton{
+   
+background: #8824cd;
+
+    padding:10px 50px;
+    border-radius: 20px;
+    border:solid 0px #b87ce1;
+    margin-top:20px;
+   
+}
+a.ct-baton:hover{
+   
+background: #8824cd;
+
+    padding:10px 50px;
+    border-radius: 20px;
+    border:solid 0px #b87ce1;
+    margin-top:20px;
+   
+}
+
+.caption{
+    padding-top: 250px;
+    padding-bottom: 250px;
+    padding-left: 100px;
+    color: #fff;
+    max-width: 450px;
+    text-align: right;
+}
+.section1{
+    height: 510px;
+    background: #2E3B4E;
+    color: white;
+    padding: 50px;
+    position: relative;
+   
+    
+}
+
+
+#circle {
+	width: 100px;
+	height: 100px;
+	background: #2E3B4E;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    position: absolute;
+    left: 45%;
+    bottom:-31px;
+
+}
+.setaera{
+  background-image: url(assests/img/nature.jpg);
+    height: 543px;
+   padding-top: 150px;
+    color: #fff;
+}
+
+a.ct-batona{
+   color: red;
+    background: #fff;
+    padding:10px 50px;
+    border-radius: 20px;
+    border:solid 0px #b87ce1;
+    margin-top:20px;
+}
+a.ct-batona:hover{
+   color: red;
+    background: #fff;
+    padding:10px 50px;
+    border-radius: 20px;
+    border:solid 0px #b87ce1;
+    margin-top:20px;
+}
+
+
+.pean{
+    height: 460px;
+}
+.back {
+    padding-top: 70px;
+    padding-left: 120px;
+    padding-right: 80px;
+}
+
+.rgbsec{
+    background-image: url(assests/img/five.jpg);
+    height: 560px;
+   position: relative;
+}
+.rgbcaption{
+    margin-top: 110px;
+    height: 450px;
+    width: 100%;
+    padding: 80px;
+    color: white;
+    background-color: rgba(136, 36, 205, 0.56);
+    position: absolute;
+   
+}
+a.ct-btn2{
+    background: #8824cd; 
+    padding:10px 50px;
+    border-radius: 20px;
+    border:solid 0px #b87ce1;
+    margin-top:20px;
+     box-shadow: -4px -3px 5px 0px #b87ce1;
+}
+a.ct-btn2:hover{
+    background: #8824cd; 
+    padding:10px 50px;
+    border-radius: 20px;
+    border:solid 0px #b87ce1;
+    margin-top:20px;
+     box-shadow: -4px -3px 5px 0px #b87ce1;
+}
+
+
+.picpan{
+    background-image: url(assests/img/six.jpg);
+    height: 670px;
+   width:100%;
+    position: relative;
+   
+}
+.cleen{
+    margin-top: 400px;
+    position: absolute;
+    color: white;
+    margin-left: 200px;
+}
+.cleen img{
+    border-radius: 50%;
+}
+a.ct-butnu{
+    color: #fff;
+    padding: 9px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 40px;
+    border: 1px solid white;
+    background: none;
+}
+a.ct-butnu:hover{
+    color: #fff;
+    padding: 9px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 40px;
+    border: 1px solid white;
+    background: none;
+}
